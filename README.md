@@ -17,7 +17,7 @@
 
 ## ✉ Связаться со мной - [aleksandrohin@gmail.com](aleksandrohin@gmail.com)  
 
-![](https://komarev.com/ghpvc/?username=your-github-username&style=plastic-square)
+![](https://komarev.com/ghpvc/?vzdohin&style=plastic-square)
 <!--
 **vzdohin/vzdohin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
