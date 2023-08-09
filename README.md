@@ -15,7 +15,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 
-## ✉ Связаться со мной - [aleksandrohin@gmail.com](aleksandrohin@gmail.com)  
+## ✉ Связаться со мной - <a href="mailto:aleksandrohin@gmail.com">aleksandrohin@gmail.com</a>
 
 ![](https://komarev.com/ghpvc/?username=vzdohin&style=plastic-square)
 <!--
