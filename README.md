@@ -2,7 +2,7 @@
 
 👻 Я начинающий фронтенд-разработчик.  
 🎓 Закончил курс от Яндекс.Практикума, где изучил верстку, JS, React и основы бэкенда на Node.js.  
-📘 [Дипломная работа](https://diplom.nomoredomainsicu.ru){target="_blank"}.  
+📘 <a href="https://diplom.nomoredomainsicu.ru" target="_blank">Дипломная работа.</a>
 🚀 Хочу работать и развиваться в команде профессионалов.  
 
 ## 💻 Languages and Tools :  
